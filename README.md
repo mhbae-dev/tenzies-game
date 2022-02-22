@@ -13,8 +13,8 @@ Visit this link to see the project live, [click here](https://tenzies-game-black
 ### Setup
 First, clone this repository to a local directory. Enter in the command line:
 ```
-$ git clone https://github.com/mhbae-dev/markdown-note
-$ cd markdown-note
+$ git clone https://github.com/mhbae-dev/tenzies-game
+$ cd tenzies-game
 ```
 ### Run on localhost
 First install dependencies:
